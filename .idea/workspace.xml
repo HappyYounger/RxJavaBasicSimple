@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94b82b0f-8132-4627-a028-efc8a8ddeb9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/Ch04_Ambiguous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/Ch04_Zip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch04/Ch04_Grouping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,14 +36,14 @@
         <counts>
           <entry key="bat" value="1" />
           <entry key="gradle" value="3" />
-          <entry key="java" value="185" />
+          <entry key="java" value="187" />
           <entry key="properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="185" />
+          <entry key="JAVA" value="187" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="1" />
         </counts>
@@ -55,13 +52,13 @@
         <counts>
           <entry key="dummy" value="30" />
           <entry key="gradle" value="3" />
-          <entry key="java" value="8623" />
+          <entry key="java" value="8910" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="3" />
-          <entry key="JAVA" value="8623" />
+          <entry key="JAVA" value="8910" />
           <entry key="PLAIN_TEXT" value="30" />
         </counts>
       </usages-collector>
@@ -70,10 +67,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch04/Ch04_Zip.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="220">
+              <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
             </state>
           </provider>
         </entry>
@@ -413,8 +410,9 @@
         <option value="$PROJECT_DIR$/src/main/java/ch03/Ch03_ActionOperator.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch04/Ch04_Combining.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch04/Ch04_Merge.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/ch04/Ch04_Zip.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch04/Ch04_Grouping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -620,18 +618,18 @@
       <workItem from="1537067412185" duration="5212000" />
       <workItem from="1537168565255" duration="1515000" />
       <workItem from="1537170434935" duration="264000" />
-      <workItem from="1537170725946" duration="1302000" />
+      <workItem from="1537170725946" duration="1608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24308000" />
+    <option name="totallyTimeSpent" value="24614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2167382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2167382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -640,13 +638,13 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3230198" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3230198" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33787128" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33787128" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="JProfiler" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -803,20 +801,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch04/Ch04_Zip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="117" column="21" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="21" />
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch04/Ch04_Grouping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch04/Ch04_Zip.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="220">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
         </state>
       </provider>
     </entry>
