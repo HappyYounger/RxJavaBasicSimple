@@ -1,5 +1,6 @@
 import ch02.Ch02;
 import ch03.*;
+import ch04.Ch04_Merge;
 
 import java.awt.*;
 
@@ -105,9 +106,13 @@ public class Main {
 
 //        Ch03_CollectionOperator.simpleRetry();
 
+//        Ch03_ActionOperator.simpleDoOnXxx();
 
-        Ch03_ActionOperator.simpleDoOnXxx();
+//        Ch04_Merge.simpleMerge();
 
+//        Ch04_Merge.simpleFlatMap();
+
+        Ch04_Merge.simpleConcat();
 
     }
 
